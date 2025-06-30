@@ -25,8 +25,8 @@ public class PaymentController {
                     "paypal",
                     "sale",
                     "Compra desde el carrito",
-                    "http://localhost:3000/paypal/cancel",
-                    "http://localhost:3000/paypal/success"
+                    "https://softwares-gamma.vercel.app/paypal/cancel",
+                    "https://softwares-gamma.vercel.app/paypal/success"
             );
 
             for (Links link : payment.getLinks()) {
