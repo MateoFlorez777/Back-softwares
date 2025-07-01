@@ -55,8 +55,8 @@ public class PaypalService {
         payer.setPaymentMethod("paypal");
 
         RedirectUrls redirectUrls = new RedirectUrls();
-        redirectUrls.setCancelUrl("http://localhost:5173/payment/cancel");
-        redirectUrls.setReturnUrl("http://localhost:5173/payment/success");
+        redirectUrls.setCancelUrl("https://softwares-gamma.vercel.app/payment/cancel");
+        redirectUrls.setReturnUrl("https://softwares-gamma.vercel.app/payment/success");
 
         Payment payment = new Payment();
         payment.setIntent("sale");
