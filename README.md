@@ -37,5 +37,5 @@ cd ecommerce-app/backend
 
 ### 🛠️ Crear la base de datos
 
-```bash
+
 CREATE DATABASE (nombre de la base de datos);
