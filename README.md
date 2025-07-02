@@ -74,7 +74,15 @@ paypal.mode=sandbox
 mvn spring-boot:run
 ```
 
-### ▶️ Url Back - Railway
+### 🔗 Url Back - Railway
 
 https://perfect-passion-production.up.railway.app/ 
+
+
+### 🧑‍💻 Integrantes:
+
+- Juan Mateo Rodríguez Flórez ☕
+- Santiago Infante Guzmán ⚛️
+- Andrés Felipe Culma Maceto ⚛️
+- Yesid Eduardo Muñoz Medina ⚛️
 
