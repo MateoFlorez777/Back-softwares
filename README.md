@@ -1,4 +1,4 @@
-# 🧠 Backend - Ecommerce App
+# S Backend - Software S
 
 Este es el backend del sistema de ecommerce desarrollado con **Spring Boot**, **Spring Security**, **JWT**, **Java Mail Sender**, **PayPal SDK** y **MySQL**.
 
