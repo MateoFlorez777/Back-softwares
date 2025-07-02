@@ -30,7 +30,7 @@ Este es el backend del sistema de ecommerce desarrollado con **Spring Boot**, **
 ### 📥 Clonar el repositorio
 
 ```bash
-git clone https://github.com/tu-usuario/ecommerce-app.git
+https://github.com/MateoFlorez777/Back-softwares
 cd ecommerce-app/backend
 ```
 
